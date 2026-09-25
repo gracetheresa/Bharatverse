@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix  Bharatverse — Discover Your India",
+  "description": "Personalized travel discovery platform for India with interactive 3D destination visualizer, intelligent matching, and cultural journey planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
